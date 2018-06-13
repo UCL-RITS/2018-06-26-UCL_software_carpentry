@@ -28,6 +28,19 @@ eventbrite: 46979240172         # optional: alphanumeric key for Eventbrite regi
   And run 'make workshop-check' *before* committing to make sure that changes are good.
 {% endcomment %}
 
+
+
+<h2 id="general">General Information</h2>
+
+{% comment %}
+  INTRODUCTION
+
+  Edit the general explanatory paragraph below if you want to change
+  the pitch.
+{% endcomment %}
+
+<strong>All UCL students should register via the <a href="https://doctoral-skills.ucl.ac.uk/course-details.pht?course_ID=3099">Doctoral Skills Development</a> website.</strong> Everyone else can register via the Eventbrite form, below.
+
 {% comment %}
   EVENTBRITE
 
@@ -46,14 +59,6 @@ eventbrite: 46979240172         # optional: alphanumeric key for Eventbrite regi
 </iframe>
 {% endif %}
 
-<h2 id="general">General Information</h2>
-
-{% comment %}
-  INTRODUCTION
-
-  Edit the general explanatory paragraph below if you want to change
-  the pitch.
-{% endcomment %}
 {% if page.carpentry == "swc" %}
   {% include sc/intro.html %}
 {% elsif page.carpentry == "dc" %}
