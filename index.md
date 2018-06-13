@@ -39,8 +39,6 @@ eventbrite: 46979240172         # optional: alphanumeric key for Eventbrite regi
   the pitch.
 {% endcomment %}
 
-<h3>Important</h3>
-
 <strong>UCL students should register via the <a href="https://doctoral-skills.ucl.ac.uk/course-details.pht?course_ID=3099">Doctoral Skills Development</a> website.</strong> 
 
 Everyone else can register via the Eventbrite form:
