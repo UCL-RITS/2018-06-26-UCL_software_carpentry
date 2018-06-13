@@ -42,7 +42,7 @@ eventbrite: 46979240172         # optional: alphanumeric key for Eventbrite regi
 <strong>UCL students should register via the <a href="https://doctoral-skills.ucl.ac.uk/course-details.pht?course_ID=3099">Doctoral Skills Development</a> website.</strong> 
 
 Everyone else can <a href="https://www.eventbrite.co.uk/e/ucl-software-carpentry-june-2018-registration-46979240172">register here</a>.
-
+<hr />
 {% if page.carpentry == "swc" %}
   {% include sc/intro.html %}
 {% elsif page.carpentry == "dc" %}
