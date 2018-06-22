@@ -450,7 +450,7 @@ Everyone else can <a href="https://www.eventbrite.co.uk/e/ucl-software-carpentry
       <a href="https://www.youtube.com/watch?v=339AEqk9c-8">Video Tutorial</a>
       <p>
         nano is a basic editor and the default that instructors use in the workshop. It will have been installed with the Bash installation above.
-      </p>
+      </Gordon Street (25) 105 - Public Clusterp>
       <p>
         Others editors that you can use are
         <a href="https://notepad-plus-plus.org/">Notepad++</a> or
