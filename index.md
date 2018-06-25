@@ -11,7 +11,7 @@ humantime: "9:30am - 5:00pm"    # human-readable times for the workshop (e.g., "
 startdate: 2018-06-26      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
 enddate: 2018-06-27        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
 instructor: ["Thomas Dowrick", "Anastasis Georgoulas", "Roland Guichard", "Mital Kinderkedia" ] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
-helper: ["Asif Tamuri", "Jeremy Stein", "Matthew Gillman", "Stuart Grieve", "Vilma Agalioti"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
+helper: ["Asif Tamuri", "Jeremy Stein", "Matthew Gillman", "Stuart Grieve", "Vilma Agalioti", "Mike Baron"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
 email: ["rc-softdev@ucl.ac.uk"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
 collaborative_notes: http://pad.software-carpentry.org/2018-06-26-UCL            # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document
 eventbrite: 46979240172         # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
@@ -448,9 +448,7 @@ Everyone else can <a href="https://www.eventbrite.co.uk/e/ucl-software-carpentry
     <div class="col-md-4">
       <h4 id="editor-windows">Windows</h4>
       <a href="https://www.youtube.com/watch?v=339AEqk9c-8">Video Tutorial</a>
-      <p>
-        nano is a basic editor and the default that instructors use in the workshop. It will have been installed with the Bash installation above.
-      </p>
+      <p> nano is a basic editor and the default that instructors use in the workshop. It will have been installed with the Bash installation above.  </p>
       <p>
         Others editors that you can use are
         <a href="https://notepad-plus-plus.org/">Notepad++</a> or
